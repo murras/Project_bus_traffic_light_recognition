@@ -32,3 +32,5 @@ CMakeLists.txt
 *.weights
 *.jpg
 *.txt
+*.lnk
+*.mp4

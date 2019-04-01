@@ -1,0 +1,9 @@
+yolo_mark.exe data\img cap_video traffic1.mp4 20
+yolo_mark.exe data\img cap_video traffic2.mp4 20
+yolo_mark.exe data\img cap_video traffic3.mp4 20
+yolo_mark.exe data\img cap_video traffic4.mp4 20
+yolo_mark.exe data\img cap_video traffic5.mp4 20
+yolo_mark.exe data\img cap_video traffic6.mp4 20
+yolo_mark.exe data\img cap_video traffic7.mp4 20
+yolo_mark.exe data\img cap_video traffic8.mp4 20
+yolo_mark.exe data\img cap_video traffic9.mp4 20
